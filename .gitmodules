@@ -1,0 +1,6 @@
+[submodule "komik-service"]
+	path = komik-service
+	url = https://github.com/duykhanh0424/komik-service.git
+[submodule "komik-webapp"]
+	path = komik-webapp
+	url = https://github.com/duykhanh0424/komik-webapp.git
